@@ -1,0 +1,22 @@
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\peter\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\courses\work\C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\courses\work\C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+E:\courses\work\C#\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.Form2.resources
+E:\courses\work\C#\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+E:\courses\my projects\coffee shop\FinalProject\bin\Debug\FinalProject.exe.config
+E:\courses\my projects\coffee shop\FinalProject\obj\Debug\FinalProject.exe
+E:\courses\my projects\coffee shop\FinalProject\obj\Debug\FinalProject.pdb
